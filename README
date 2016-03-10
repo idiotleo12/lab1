@@ -1,0 +1,2 @@
+comile:	g++ -o Question_B Question_B.cpp
+run:	./Question_B
