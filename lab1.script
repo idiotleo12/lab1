@@ -1,0 +1,13 @@
+Script started on 2016年03月10日 (週四) 17時23分22秒
+]0;F74016069@2015cpp: ~[01;32mF74016069@2015cpp[00m:[01;34m~[00m$ whoami; pwd
+F74016069
+/home/F74016069
+]0;F74016069@2015cpp: ~[01;32mF74016069@2015cpp[00m:[01;34m~[00m$ git config -l
+user.name=idiotleo12
+user.email=f74016069@mail.ncku.edu.tw
+]0;F74016069@2015cpp: ~[01;32mF74016069@2015cpp[00m:[01;34m~[00m$ git clone https::[K//github.com/idiotleo12/lab1.git
+Cloning into 'lab1'...
+warning: You appear to have cloned an empty repository.
+]0;F74016069@2015cpp: ~[01;32mF74016069@2015cpp[00m:[01;34m~[00m$ exit
+
+Script done on 2016年03月10日 (週四) 17時24分21秒
